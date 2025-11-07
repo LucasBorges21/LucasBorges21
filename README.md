@@ -17,7 +17,7 @@ Atualmente estudo **Python, SQL, Power BI, Seleniu e Flask**, e desenvolvo proje
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
 | [**Análise Comercial de Eventos**](https://github.com/LucasBorges21/analise_comercial_eventos) | Análise completa de vendas, equipes e desempenho com Pandas e Matplotlib | Python, Pandas, Matplotlib |
-
+| [**Web Scraping com Selenium**](https://github.com/LucasBorges21/web_scrapping_selenium) | Automação de coleta de dados com Selenium, navegando por múltiplas páginas e exportando resultados para Excel | Python, Selenium, Pandas, OpenPyXL |
 
 ---
 
