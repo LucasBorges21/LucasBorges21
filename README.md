@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Lucas Borges</h1>
 
-<!--
-**LucasBorges21/LucasBorges21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Sistemas de Informação | 💻 Foco em Análise de Dados e Desenvolvimento em Python
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+Sou apaixonado por transformar dados em decisões.  
+Atualmente estudo **Python, SQL, Power BI, Seleniu e Flask**, e desenvolvo projetos de análise e visualização de dados aplicados a cenários reais.
+
+---
+
+### 🧩 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**Análise Comercial de Eventos**](https://github.com/LucasBorges21/analise_comercial_eventos) | Análise completa de vendas, equipes e desempenho com Pandas e Matplotlib | Python, Pandas, Matplotlib |
+
+
+---
+
+### 🧠 Tecnologias que utilizo
+
+- **Python** (Pandas, Matplotlib, Flask, Selenium)
+- **SQL / MySQL**
+- **Power BI**
+- **HTML / CSS**
+- **Excel Avançado**
+- **Git & GitHub**
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/lucas-borges21](https://www.linkedin.com/in/lucas-borges21)  
+- **E-mail:** borgescorado@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorges21&layout=compact&theme=dracula" />
+</p>
+
+<p align="center"><em>“Aprendendo todos os dias, um projeto por vez.”</em></p>
