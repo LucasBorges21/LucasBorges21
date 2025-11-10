@@ -35,7 +35,7 @@ Atualmente estudo **Python, SQL, Power BI, Selenium e Flask**, e desenvolvo proj
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/lucas-borges21](https://www.linkedin.com/in/lucas-borges21)  
+- **LinkedIn:** [linkedin.com/in/lucas-borges21]([https://www.linkedin.com/in/lucas-borges21](https://www.linkedin.com/in/lucas-borges-1277141a0/))  
 - **E-mail:** borgescorado@gmail.com  
 
 ---
