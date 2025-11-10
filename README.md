@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 Sou apaixonado por transformar dados em decisões.  
-Atualmente estudo **Python, SQL, Power BI, Seleniu e Flask**, e desenvolvo projetos de análise e visualização de dados aplicados a cenários reais.
+Atualmente estudo **Python, SQL, Power BI, Selenium e Flask**, e desenvolvo projetos de análise e visualização de dados aplicados a cenários reais.
 
 ---
 
