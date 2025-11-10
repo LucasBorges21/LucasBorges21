@@ -19,6 +19,7 @@ Atualmente estudo **Python, SQL, Power BI, Seleniu e Flask**, e desenvolvo proje
 | [**Análise Comercial de Eventos**](https://github.com/LucasBorges21/analise_comercial_eventos) | Análise completa de vendas, equipes e desempenho com Pandas e Matplotlib | Python, Pandas, Matplotlib |
 | [**Web Scraping com Selenium**](https://github.com/LucasBorges21/web_scrapping_selenium) | Automação de coleta de dados com Selenium, navegando por múltiplas páginas e exportando resultados para Excel | Python, Selenium, Pandas, OpenPyXL |
 | [**Portfólio SQL – Análises de Eventos**](https://github.com/LucasBorges21/eventos_sql_analytics.git) | Consultas SQL com foco em análise de dados de eventos corporativos, utilizando CTEs, funções de janela e métricas de desempenho | SQL, MySQL, Window Functions, CTEs |
+| [**Power BI – Análise Comercial de Eventos**](https://github.com/LucasBorges21/bi_eventos_dashboard.git) | Dashboard analítico no Power BI com modelagem estrela, medidas DAX e análise visual de vendas, receita e performance de eventos corporativos | Power BI, DAX |
 
 ---
 
