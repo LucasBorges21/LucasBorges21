@@ -44,4 +44,3 @@ Atualmente estudo **Python, SQL, Power BI, Selenium e Flask**, e desenvolvo proj
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorges21&layout=compact&theme=dracula" />
 </p>
 
-<p align="center"><em>“Aprendendo todos os dias, um projeto por vez.”</em></p>
